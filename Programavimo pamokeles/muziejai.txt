@@ -1,0 +1,11 @@
+5 Vilnius
+
+Dailės 1000
+
+Energetikos 5000
+
+Žaislų 12500
+
+Geležinkelių 6250
+
+Pinigų 3000
